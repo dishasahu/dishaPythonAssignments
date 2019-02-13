@@ -1,0 +1,19 @@
+given expression -
+
+r=s=t=5
+
+we have to evalaute: 
+
+avg=r+s+t/3
+
+substituting the values of r,s,t in avg 
+
+avg=5+5+5/3
+
+by operator precedence / has heigher precedence than +
+so,
+
+avg=5+5+(5/3)
+avg=5+5+1.666
+avg=10+1.666
+avg=11.666
